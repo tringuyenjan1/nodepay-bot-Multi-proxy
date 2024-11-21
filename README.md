@@ -35,7 +35,7 @@ pkg install nano
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/tringuyenjan1/nodepay-bot-new.git
+git clone https://github.com/tringuyenjan1/nodepay-bot-Multi-proxy.git
 ```
 **Change directory:**
 ```
