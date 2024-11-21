@@ -62,8 +62,8 @@ nano token.txt
 ```bash
 node nodepay.js
 ```
-**The updated proxies that fail to connect or are not working will be saved in the file dieproxy.txt.**
-**You can run multiple tokens corresponding to the accounts. Each account connects to 15 proxies. Please ensure your proxies are functioning properly to run the tool effectively.**
+# The updated proxies that fail to connect or are not working will be saved in the file dieproxy.txt.
+## You can run multiple tokens corresponding to the accounts. Each account connects to 15 proxies. Please ensure your proxies are functioning properly to run the tool effectively.
 
 
 **The command to run multiple tokens (multiple accounts)., run the following command:**
